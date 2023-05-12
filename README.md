@@ -1,2 +1,2 @@
-# CPU_Renderer
-A software raster renderer for learning
+# Glight_Renderer
+A Glight raster renderer for learning
